@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/editor/templates",(function(a){return{data:[{},{page:{name:[{type:a,text:"Editor Designs",spans:[]}],meta_title:[{type:a,text:"Editor",spans:[]}],tutorial_delay:null,tutorial:[]}}],fetch:{},mutations:[]}}("heading1")));
