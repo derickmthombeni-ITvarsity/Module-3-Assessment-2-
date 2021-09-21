@@ -132,11 +132,11 @@ body{
 
 /*=========== ITERM DETAILS ===========*/
 
-.iterm-details img{
+.item-details img{
     width: 100%;
 }
 
-.iterm-details h1{
+.item-details h1{
     font-size: 25px;
     text-align: center;
     border: 5px solid #1a1a1a;
@@ -144,19 +144,19 @@ body{
     padding: 5px;
 }
 
-.iterm-details h2{
+.item-details h2{
     font-size: 20px;
     text-align: left;
     margin: 0;
     margin-left: 10px;
 }
 
-.iterm-details-info{
+.item-details-info{
     margin-left: 25px;
     margin-right: 25px;
 }
 
-.iterm-details-info button{
+.item-details-info button{
     border: none;
     color: rgb(47, 230, 87);
     padding: 5px;
@@ -168,12 +168,12 @@ body{
     cursor: pointer;
   }
 
-.iterm-details-writeup p{
+.item-details-info p{
     font-size: 13px;
     display: inline-block;
 }
 
-.iterm-details-additional label{
+.item-details-additional label{
     line-height: 25px;
     margin-left: 10px;
 }
